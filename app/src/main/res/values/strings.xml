@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LoginLayoutExample</string>
+    <string name="text_hint_email">Email</string>
+    <string name="text_hint_pass">Password</string>
+    <string name="text_button_login">Login</string>
+    <string name="text_gmail">Gmail</string>
+    <string name="text_facebook">Facebook</string>
+    <string name="text_error_email">Please insert email !</string>
+    <string name="text_error_pass">Please insert password !</string>
+    <string name="toast_facebook_success">Login Facebook Success !</string>
+    <string name="toast_gmail_success">Login Gmail Success !</string>
+    <string name="toast_login_success">Login Success !</string>
+    <string name="toast_login_error">Email And Password Error !</string>
+</resources>
